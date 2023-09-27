@@ -1,3 +1,4 @@
+//importa as bibliotecas e módulos necessários
 import path from 'node:path';
 import { Router } from 'express';
 import multer from 'multer';
